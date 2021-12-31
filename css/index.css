@@ -1,0 +1,52 @@
+	.carousel-inner > .item > img,
+  	.carousel-inner > .item > a > img {
+      width: auto;
+     /* height: 500px;*/
+      margin: auto;
+  	}
+  	 .row{
+  	 	padding-top: 20px;
+  	 	margin-top: 20px;
+  	 }
+  	 #section2{
+  	 	
+  	 	border-radius: 5px;
+  	 	margin-top: 15px;
+  	 }
+  	 #section3{
+  	 	
+  	 	border-radius: 5px;
+  	 	margin-top: 15px;
+  	 }
+  	 .footer{
+  	 	margin-top: 20px;
+  	 	font-size: 12px;
+  	 	padding: 0px;
+  	 }
+  	 .well{
+  	 	border-radius: 10px;
+  	 	padding-bottom: 10px;
+  	 
+  	 }
+  	 .list-group-item{
+  	 	border-radius: 5px;
+  	 	padding: 8px;
+  	 }
+  	  body {
+     /* position: relative; */
+  	}
+  	.affix {
+      top:0;
+      width: 100%;
+      z-index: 9999 !important;
+  	}
+  	.img-thumbnail:hover{
+    -moz-transform: scale(1.5,1.5);
+    -webkit-transform: scale(1.5,1.5);
+    transform: scale(1.5,1.5);
+    }
+	.btn-pag:hover {
+		background-color: #4CAF50; /* Green */
+		color: white;
+		}
+	
